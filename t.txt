@@ -771,7 +771,6 @@ westernunion.
 wu.
 transferwise.com
 wise.com
--cvr-aws-sys.comcast.net
 xfinityhome.com
 xfiplatform.com
 signalservice.comcast.net
