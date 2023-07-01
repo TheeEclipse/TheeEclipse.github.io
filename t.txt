@@ -784,6 +784,7 @@ westernunion.
 wu.
 transferwise.com
 wise.com
+-cvr-aws-sys.comcast.net
 xfinityhome.com
 xfiplatform.com
 signalservice.comcast.net
@@ -1242,7 +1243,7 @@ muslimpro.com
 ovo.id
 taralite.com
 app.spacelift.dev
-matrix.agent.tchap.gouv.fr
+tchap.gouv.fr
 telenor.se
 bredbandsbolaget.se
 europolitan.se
