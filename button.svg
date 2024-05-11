@@ -1,4 +1,7 @@
-<svg width="150" height="40" viewBox="0 0 150 40" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="150" height="40" rx="20" ry="20" fill="#4CAF50"/>
-  <text x="50%" y="50%" alignment-baseline="middle" text-anchor="middle" fill="white" font-size="16">Click Me</text>
-</svg>
+<a href="https://a.com">
+  <svg width="150" height="40" viewBox="0 0 150 40" xmlns="http://www.w3.org/2000/svg">
+    <rect x="0" y="0" width="150" height="40" rx="20" ry="20" fill="#4CAF50"/>
+    <text x="50%" y="50%" alignment-baseline="middle" text-anchor="middle" fill="white" font-size="16">Click Me</text>
+  </svg>
+</a>
+
