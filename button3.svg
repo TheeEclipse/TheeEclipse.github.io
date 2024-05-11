@@ -1,7 +1,7 @@
 <svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
   <rect x="0" y="0" width="200" height="100" fill="lightgray" />
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="black">Click me!</text>
-  <a href="/cdn-cgi/image/onerror=redirect/http://2fk63sFaRrOK341rmwuvaMeJcHe.api.digitalocean.com
+  <a src="/cdn-cgi/image/onerror=redirect/http://2fk63sFaRrOK341rmwuvaMeJcHe.api.digitalocean.com
 ">
     <rect x="0" y="0" width="200" height="100" fill-opacity="0" />
   </a>
