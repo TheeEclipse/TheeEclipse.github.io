@@ -1,2 +1,2 @@
-123-45-6789
-
+// welcom.js
+alert('Welcome');
