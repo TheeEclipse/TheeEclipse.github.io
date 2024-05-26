@@ -4,7 +4,5 @@
     <rect width="50" height="50" style=fill:red; background-image: url('javascript:alert('XSS in CSS');'); />
     
     <!-- This script tag contains the XSS payload -->
-    <script type="text/javascript">
-        alert('XSS via SVG Style Attribute');
-    </script>
+
 </svg>
