@@ -1,7 +1,7 @@
 <svg width="80%" height="80%" xmlns="http://www.w3.org/2000/svg">
     <rect x="10" y="10" width="150%" height="150%" fill="#FF69B4" />
     <!-- Text Element -->
-    <text x="40%" y="20%" font-family="Arial" fill="red">THIS IS A WEBPAGE TAKEN OVER BY THEE ECLIPSE</text>
+    <text x="40%" y="20%" font-family="Arial" fill="red" style="color:blue">THIS IS A WEBPAGE TAKEN OVER BY THEE ECLIPSE</text>
     <script>
         javascript:onload=alert('THEE ECLIPSE');
     </script>
