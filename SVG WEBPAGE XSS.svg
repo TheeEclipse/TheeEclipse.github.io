@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50">
-    <!-- This rectangle serves as a visual element -->
-    <rect width="50" height="50" style=fill:red; background-image: url('javascript:alert('XSS in CSS');'); />
-    
-    <!-- This script tag contains the XSS payload -->
-
-</svg>
